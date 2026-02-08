@@ -22,7 +22,7 @@ In this tutorial you will learn how to use a potentiometer with and without Ardu
 
 Remember that LEDs have a positive and negative pin. You may burn the LED if wired incorrectly. See [here](https://github.com/kingston-hackSpace/Push-button_LED/blob/main/Understanding_LEDs.png)
 
-More about wiring below.
+Find how to wire the potentiometer in the tutorials below.
 
 ----
 # Code and instructions
