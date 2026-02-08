@@ -44,17 +44,17 @@ Follow [this tutorial](https://www.circuitgeeks.com/arduino-potentiometer-tutori
 ----
 # Understanding POT values
 
-**READ**
+**READ:**
 
 To read values from the potentiometer, we connect it to any of the **analog pins** of our Arduino. Then, we use **analogRead();** to read the incoming values. 
 
 Analog read will always provide values between **0 - 1023** 
 
-**MAP**
+**MAP:**
 
 Once we have these incoming values, we might need to **map** those values to make them useful values to activate another piece of equipment, such an LED.
 
-**WRITE**
+**WRITE:**
 
 Our LED is connected to a PMW digital pin (~), which can modulate a signal in a range of values between 0 - 255 via analogWrite();
 
