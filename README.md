@@ -35,11 +35,19 @@ Remember that LEDs have a positive and negative pin. You may burn the LED if wir
 ----
 # Understanding POT values
 
-As in the previous example, we connect potentiometers to any of the analog pins of our Arduino, and we use *analogRead();* to read the incoming values. 
+**READ**
+
+To read values from the potentiometer, we connect it to any of the **analog pins** of our Arduino. Then, we use **analogRead();** to read the incoming values. 
 
 Analog read will always provide values between **0 - 1023**.
 
-Once we have does incoming values, we might need to *map*
+**MAP**
+
+Once we have does incoming values, we might need to **map** those values to make them useful values to activate another piece of equipment, such an LED.
+
+**WRITE**
+
+Our LED is connected to a PMW digital pin (~), which can module a signal in a range of values between 0 - 255 via digitalWrite();
 
 ----
-# Map() function
+# Understanding the Map() function
