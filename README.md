@@ -7,7 +7,7 @@ In this tutorial you will learn how to use a potentiometer with and without Ardu
 ----
 # Setting up before starting
 
-Understanding push buttons
+[Understanding Potentiometers]
 
 [Understanding LEDs](https://github.com/kingston-hackSpace/Push-button_LED/blob/main/Understanding_LEDs.png)
 
@@ -24,5 +24,7 @@ Understanding push buttons
 
 ----
 # Wiring
+
+See diagram [here]
 
 Remember that LEDs have a positive and negative pin. You may burn the LED if wired incorrectly. See [here](https://github.com/kingston-hackSpace/Push-button_LED/blob/main/Understanding_LEDs.png)
