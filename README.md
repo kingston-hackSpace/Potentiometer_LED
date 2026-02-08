@@ -32,6 +32,12 @@ Remember that LEDs have a positive and negative pin. You may burn the LED if wir
 ----
 # Code and instructions
 
+STEP 1: Printing values in the Serial Monitor
+
+Follow [this tutorial](https://www.build-electronic-circuits.com/arduino-potentiometer/)
+
+
+
 ----
 # Understanding POT values
 
@@ -39,7 +45,7 @@ Remember that LEDs have a positive and negative pin. You may burn the LED if wir
 
 To read values from the potentiometer, we connect it to any of the **analog pins** of our Arduino. Then, we use **analogRead();** to read the incoming values. 
 
-Analog read will always provide values between **0 - 1023**.
+Analog read will always provide values between **0 - 1023** 
 
 **MAP**
 
