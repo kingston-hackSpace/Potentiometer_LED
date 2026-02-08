@@ -9,6 +9,8 @@ In this tutorial you will learn how to use a potentiometer with and without Ardu
 
 [Understanding Potentiometers]
 
+[Potentiometer PINOUT](https://github.com/kingston-hackSpace/Potentiometer_LED/blob/main/PINOUT.png)
+
 [Understanding LEDs](https://github.com/kingston-hackSpace/Push-button_LED/blob/main/Understanding_LEDs.png)
 
 ----
