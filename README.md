@@ -18,11 +18,11 @@ In this tutorial you will learn how to use a potentiometer with and without Ardu
 
 - Ardiuno UNO
 
-- LED 
+- LED (x2)
 
 - Potentiometer 10K
 
-- Resistor 220ohms
+- Resistor 220ohms (x2)
 
 ----
 # Wiring
@@ -40,7 +40,9 @@ Follow [this tutorial](https://www.build-electronic-circuits.com/arduino-potenti
 
 How to open the Serial Monitor [here](https://github.com/kingston-hackSpace/Potentiometer_LED/blob/main/SerialMonitor.png)
 
+STEP 2: Controlling the brightness of an LED with a POT
 
+Follow [this tutorial](https://www.circuitgeeks.com/arduino-potentiometer-tutorial/)
 
 ----
 # Understanding POT values
@@ -61,3 +63,14 @@ Our LED is connected to a PMW digital pin (~), which can module a signal in a ra
 
 ----
 # Understanding the Map() function
+
+The **map();** function "re-maps" a number from one range to another.
+
+map(variable to be map, original min value, original max value, wanted min value, wanted max value);
+
+Read more [here](https://docs.arduino.cc/language-reference/en/functions/math/map/)
+
+----
+# MORE EXAMPLES
+
+[LED Color Mixer](https://docs.arduino.cc/learn/electronics/potentiometer-basics/)
