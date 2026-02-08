@@ -32,9 +32,11 @@ Remember that LEDs have a positive and negative pin. You may burn the LED if wir
 ----
 # Code and instructions
 
-STEP 1: Printing values in the Serial Monitor
+STEP 1: Printing values in the Serial Monitor 
 
 Follow [this tutorial](https://www.build-electronic-circuits.com/arduino-potentiometer/)
+
+How to open the Serial Monitor [here](https://github.com/kingston-hackSpace/Potentiometer_LED/blob/main/SerialMonitor.png)
 
 
 
