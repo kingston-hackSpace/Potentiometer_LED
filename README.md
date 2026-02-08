@@ -27,13 +27,17 @@ Find how to wire the potentiometer in the tutorials below.
 ----
 # Code and instructions
 
-STEP 1: Printing POT values in the Serial Monitor 
+**STEP 1:** 
+
+Printing POT values in the Serial Monitor.
 
 Follow [this tutorial](https://www.build-electronic-circuits.com/arduino-potentiometer/)
 
 How to open the Serial Monitor [here](https://github.com/kingston-hackSpace/Potentiometer_LED/blob/main/SerialMonitor.png)
 
-STEP 2: Controlling the brightness of an LED with a POT
+**STEP 2:**
+
+Controlling the brightness of an LED with a POT.
 
 Follow [this tutorial](https://www.circuitgeeks.com/arduino-potentiometer-tutorial/)
 
